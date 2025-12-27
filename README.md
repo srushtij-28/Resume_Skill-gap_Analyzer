@@ -14,5 +14,4 @@ python skill_gap.py
 ## 🛠 Technologies Used
 - Python 3
 
-## 👤 Author
-Srushti Jondhale
+
